@@ -20,7 +20,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bhavya416/python-text-encrypt-decrypt.git
+   git clone https://github.com/neuqs0035/python-text-encrypt-decrypt.git
    cd python-text-encrypt-decrypt
    ```
 2. **Run Script:**
